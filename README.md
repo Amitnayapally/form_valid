@@ -1,11 +1,9 @@
-# To See This Project Output Click On The Below Link :-                  [https://amitnayapally.github.io/form_valid/]
+# To See This Project Output Click On The Below Link :- [https://amitnayapally.github.io/form_valid/](https://amitnayapally.github.io/form_valid/)
+
 ### Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+### Available Scripts
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
