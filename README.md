@@ -1,7 +1,7 @@
-# To See Live This Project Output click on "Go Live" Link - [Go Live](https://amitnayapally.github.io/form_valid/)
+# To See Live This Project Output click on the Link - [Go Live](https://amitnayapally.github.io/form_valid/)
   
-# Getting Started with Create React App
-  
+
+## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
